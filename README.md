@@ -10,8 +10,8 @@ Goal: network penetration testing, Active Directory attacks, and adversary simul
 - Active Directory (next)
 
 ## Writing
-- [Writeups & notes](./writeups) — lab walkthroughs and methodology
-- [PortSwigger Academy log](./portswigger) — solved labs by category
+- [Writeups & notes](https://github.com/RenatAlves90/writeups) — lab walkthroughs and methodology
+- [PortSwigger Academy log](https://github.com/RenatAlves90/writeups/tree/main/portswigger) — solved labs by category
 
 ## Progress
 | Path | Status |
