@@ -21,6 +21,6 @@ Goal: network penetration testing, Active Directory attacks, and adversary simul
 | HTB Starting Point | not started |
 
 ## Contact
-- HackerOne: @RenatAlves90
+- HackerOne: @devnull90
 - TryHackMe: @renmalvs
 - Email: seu@email.com
