@@ -23,4 +23,4 @@ Goal: network penetration testing, Active Directory attacks, and adversary simul
 ## Contact
 - HackerOne: @devnull90
 - TryHackMe: @renmalvs
-- Email: seu@email.com
+- Email: ut5e7ty7@anonaddy.me
